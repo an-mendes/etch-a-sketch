@@ -54,3 +54,8 @@ btn.addEventListener('click', () => {
     
 });
 
+
+document.addEventListener('DOMContentLoaded', () => {
+    createGrid(16);
+});
+
